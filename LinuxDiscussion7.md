@@ -1,6 +1,6 @@
 ### Git 冲突处理
 
-在多人协作项目时，常常会碰到的一个场景是两个人同时对同一个文件进行了不同的修改、
+在多人协作项目时，常常会碰到的一个场景是两个人同时对同一个文件进行了不同的修改。
 
 ### Markdown 图床配置
 
@@ -14,7 +14,7 @@
 
 ![image.png](https://raw.githubusercontent.com/Purkinje-cell/Images/master/20230427160824.png)
 
-之后，从 GitHub 上下载 PicGo 软件，并按照教程配置它的 Github 仓库名和分支名，并粘贴之前设置好的 Token。
+之后，从 GitHub 上下载 PicGo 软件，并按照教程配置它的 Github 仓库名和分支名，并粘贴之前设置好的 Token。使用 PicGo 控制图片上传的好处是它能够较为方便的设置不同图床的上传，以及在上传后可以自动复制 Markdown 类型的链接到剪贴板，从而减小了工作量。
 
 ![image.png](https://raw.githubusercontent.com/Purkinje-cell/Images/master/20230427161524.png)
 
