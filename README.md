@@ -13,7 +13,9 @@ In this section we'll be looking into the conflict between two files:
 #_ conflict region
 
 
-1+1=2
+2+2=4
+
+9+9=18
 
 
 #_ conflict region
