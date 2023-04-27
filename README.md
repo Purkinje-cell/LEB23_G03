@@ -2,4 +2,4 @@
 
 测试图片
 
-[Google照片](https://github.com/pkuTrasond/LEB23_G03/blob/6deb5648387066f1895a306421e56f88c885cc7b/google.png)
+![1682581660318](image/README/1682581660318.png)
